@@ -1,0 +1,9 @@
+VGD201 Level Design 1
+Andrew Williams
+
+Asset List
+-----------
+1. Map of Teleporter Maze - VGD201-Map of Teleporter Maze_Williams,Andrew.png
+2. Map of Door Challenge UDK - VGD201_Door_Challenge_Williams_Andrew.udk
+3. Asset List - VGD201-Asset List_Williams,Andrew.txt
+4. Flowchart of Events Door Challenge - VGD201-FlowChart of Events_Williams,Andrew.png
